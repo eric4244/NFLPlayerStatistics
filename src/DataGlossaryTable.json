@@ -1,0 +1,793 @@
+[
+    {
+        "Report": "Passing",
+        "Statistic": "4thQuarterComebacks",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Comebacks led by quarterback",
+        "Comments": "Offensive scoring drive in the 4th quarter when trailing by one score. This is only counted if the team wins or ties"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "AdjustedNetYards/PA",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Adjusted net yards per pass attempt",
+        "Comments": "(Passing Yards - Sacks Yards + (Passing Touchdowns * 20) - (Interceptions * 45))"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "AY/A",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Adjusted yards gained per pass attempt",
+        "Comments": "(Passing Yards + (Passing Touchdowns  * 20) - (Interceptions * 45)) / Passing Attempts"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "CompletionPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percentage of passes completed",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "FirstDownPasses",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Number of times quarterback threw for a first down",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "GameWinningDrives",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Game-winning drives led by quarterback",
+        "Comments": "An offensive scoring drive in the 4th quarter or later that puts the winning team ahead for the last time"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "InterceptionPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percentage of pass attempts player was intercepted",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "Interceptions",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total interceptions thrown",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "LongestCompletedPass",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Longest completed pass for the season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "NetYards/PassAttempt",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Net yards gained per pass attempt",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PassAttempts",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Number of times quarterback attempted a pass",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PasserRating",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Formual which involves 5 variables (Ranges from 0 to 158.3)",
+        "Comments": "5 variables are: Pass Attempts, Pass Completions, Pass Yards, Touchdowns, Interceptions"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PassesCompleted",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Number of completed passes",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PassingSuccessRate",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Successful Passes / (Pass Attempts + Times Sacked)",
+        "Comments": "A successful pass is gaining 40% of yards needed on first down, 60% on second down, or 100% on 3rd and 4th down"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PassingTDPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percent of times a thrown pass is a touchdown",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PassingTouchdowns",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Number of passing touchdowns",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PassingYards",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Number of passing yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "PassingYards/Game",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average number of passing yards per game",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "QBR",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Quarterback rating created by ESPN",
+        "Comments": "Rating system aimed to improve upon passer rating (values from 0 to 100)"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "Rank",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Overall passing rank for that given season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "Sacked",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Number of times sacked",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "SackedPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percentage of times player is sacked",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "Yards/Attempt",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Passing yards per passing attempt",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "Yards/PassCompleted",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Passing yards per pass completed",
+        "Comments": "-"
+    },
+    {
+        "Report": "Passing",
+        "Statistic": "YardsLostFromSacks",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Yards which were lost due to sacks",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "Fumbles",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total Number of times player fumbled",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "LongestRush",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Longest rushing attempt for that season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "Rank",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Overall rushing rank for that given season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingAttempts",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total rushing attempts",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingAttempts/Game",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total rushing attempts for each game",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingFirstDowns",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total first downs gained from rushes",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingSuccessRate",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Number of total successful rushes",
+        "Comments": "A successful rush is gaining 40% of yards needed on first down, 60% on second down, or 100% on 3rd and 4th down"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingTDs",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total rushing touchdowns",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total rushing yads",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingYards/Attempt",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average rushing yards for each attempt",
+        "Comments": "-"
+    },
+    {
+        "Report": "Rushing",
+        "Statistic": "RushingYards/Game",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average rushing yards for each game played",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "CatchPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percent of times player makes a catch for each target",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "Fumbles",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total number of times player fumbled",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "LongestReception",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "The longest reception the player had that season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "Rank",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Overall receiving rank for that given season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "ReceivingFirstDowns",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total times player catches a ball for a first down",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "ReceivingSuccessRate",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Number of total successful receptions",
+        "Comments": "A successful reception is gaining 40% of yards needed on first down, 60% on second down, or 100% on 3rd and 4th down"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "ReceivingTDs",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total number of receiving touchdowns",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "ReceivingYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total receiving yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "ReceivingYards/Game",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average receiving yards for each game",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "ReceivingYards/Target",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average receiving yards for each target",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "Receptions",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total receptions",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "Receptions/Game",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average recpetions for each game",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "Targets",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total targets",
+        "Comments": "-"
+    },
+    {
+        "Report": "Receiving",
+        "Statistic": "Yards/Reception",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average yards per reception",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "AssistsOnTackle",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total assists on tackles",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "ForcedFumbles",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total number of times player forced a fumble",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "FumblesLost",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Total fumbles player lost",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "FumblesRecovered",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total fumbles player recovered",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "Int",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total times player caught an interception",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "IntTD",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total times player returned an interception for a touchdown",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "IntYds",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total yards player has returned interceptions",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "MaxIntYds",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Most yards picked up after an interception",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "PassesDefended",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total passes defended",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "QBHits",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total times player hit the quarterback",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "Rank",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Overall defending rank for that given season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "Sacks",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total sacks",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "SoloTackles",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total tackles completed by themselves",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "TackleForLoss",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total tackles for a loss",
+        "Comments": "-"
+    },
+    {
+        "Report": "Defense",
+        "Statistic": "TotalTackles",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total number of tackles",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "ExtraPointPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percent of times player makes an extra point for each attempt",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "ExtraPointsAttempted",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total extra points attempted",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "ExtraPointsMade",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total extra points made",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percent of times player makes a field goal for each attempt",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsAttempted(0-19)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals attempted within 0 to 19 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsAttempted(20-29)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals attempted within 20 to 29 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsAttempted(30-39)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals attempted within 30 to 39 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsAttempted(40-49)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals attempted within 40 to 49 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsAttempted(50+)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Fields goals attempted that are 50 or more yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsMade(0-19)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals made within 0 to 19 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsMade(20-29)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals made within 20 to 29 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsMade(30-39)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals made within 30 to 39 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsMade(40-49)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Field goals made within 40 to 49 yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "FieldGoalsMade(50+)",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Fields goals made that are 50 or more yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "KickoffAvgYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Average yards kickoff goes",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "Kickoffs",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total kickoffs",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "KickoffTouchbacks",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total kickoff touchbacks",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "KickoffYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total kickoff yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "LongFieldGoals",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Longest field goal for that season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "Rank",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Overall kicking rank for that given season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "TotalFieldGoalsAttempted",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total field goals attempted",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "TotalFieldGoalsMade",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total field goals made",
+        "Comments": "-"
+    },
+    {
+        "Report": "Kicking",
+        "Statistic": "TouchbackPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percent of time kickoffs were a touchback",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "LongestPunt",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Longest punt the player had that season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "NetPuntYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punt yards after the return",
+        "Comments": "Punt Yards - Return Yards"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "NetPuntYards/Punt",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punt yards after the return per punt",
+        "Comments": "(Punt Yards - Return Yards) / Times Punted"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "PuntDownWithin20",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Number of punts downed within the 20 yard line",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "PuntDownWithin20Percent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percent of time their punt was downed within the 20 yard line",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "PuntReturnYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punt return yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "PuntsBlocked",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Total punts blocked",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "PuntTouchbackPercent",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Percent of time the players punt was a touchback",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "PuntTouchbacks",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punting touchbacks",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "Rank",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Overall punting rank for that given season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "TimesPunted",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Number of times player punted",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "TotalPuntingYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punting yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Punting",
+        "Statistic": "Yards/Punt",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total yards per punt",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "AllPurposeYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total yards player has regardless of a return or not",
+        "Comments": "Includes Rushing, Receiving, Kick Returns, Punt Returns, Interception Yards, and Fumble Recovery Yards"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "KickoffReturns",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Number of kickoffs returned",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "KickoffReturnTDs",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total kickoff return touchdowns",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "KickoffReturnYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total kickoff return yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "LongestKickReturn",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Longest kick return for that season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "LongestPuntReturn",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Longest punt return for that season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "PuntReturnTDs",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punt return touchdowns",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "PuntReturnYards",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punt return yards",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "PuntsReturned",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total punts returned",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "Rank",
+        "Used In Ranking Cards?": "FALSE",
+        "Definition": "Overall player returning rank for that given season",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "Yards/KickReturn",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total yards per kick return",
+        "Comments": "-"
+    },
+    {
+        "Report": "Returning",
+        "Statistic": "Yards/PuntReturn",
+        "Used In Ranking Cards?": "TRUE",
+        "Definition": "Total yards per punt return",
+        "Comments": "-"
+    }
+]
