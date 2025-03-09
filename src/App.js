@@ -1,9 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import DataGlossary from "./DataGlossaryTable.json";
 import React, { useState } from "react";
-//import { PowerBIEmbed } from 'powerbi-client-react';
-//import { models } from 'powerbi-client';
 import { AllCommunityModule, ModuleRegistry } from 'ag-grid-community'; 
 import { AgGridReact } from 'ag-grid-react';
 
