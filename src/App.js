@@ -42,13 +42,16 @@ function App() {
       </header>
 
       <main className="page-content">
+
         {/* Description Box with 16:9 aspect ratio */}
-        <div className="description-box">
-          <p className="description">
-            Below is a Microsoft Power BI report showcasing players in the NFL in regards to passing, rushing, defending, receiving, punting, kicking, and returning. <br /><br />
-            Beneath the report there will be a data glossary, references to resources used, and more information about it. Feel free to read through that or just play around!
-          </p>
-        </div>
+        <p className="description">
+          Below you will see a Microsoft Power BI report followed by a data glossary<br /><br />
+          The tabs to the left of the report can be used to navigate between different statistics and see player highlights in the 2020-2024 seasons<br /><br />
+          The 3 cards you will find below the title of the report are the top 3 highlights of the player over the 5 seasons<br /><br />
+          Feel free to select players you wish to look into and you can change the statistics displayed in the bottom 2 graphs as well<br /><br />
+          Not all of the statistics available in the slicer are included within our top 3 highlights. (For example, displaying a players top rank isn't necessarily telling of their performance)<br /><br />
+          You can search for players by team within the player slicer. For example you could type "MIN" and you would be given options to select from the players currently playing for the Vikings
+        </p>
 
         {/* Content row: Vertical Tabs + Report */}
         <div className="report-section">
